@@ -15,7 +15,7 @@ Links from the "Design for Engineers" presentation.
 
 
 ## Personal Links
-* [jordankoschei.com](http://jordankoschei.com)
+* [Personal Site (jordankoschei.com)](http://jordankoschei.com)
 * [Fusion Media](http://fusionhome.com)
 * [UX for the Enterprise (A List Apart article)](http://alistapart.com/article/ux-for-the-enterprise)
 * [The Industry (design articles)](http://theindustry.cc/)
