@@ -3,7 +3,7 @@ Links from the "Design for Engineers" presentation.
 
 
 ## Presentation Sources
-* ["Putting a Bolder Face on Google" (the 42 shades of gray story)](http://www.nytimes.com/2009/03/01/business/01marissa.html?_r=0)
+* ["Putting a Bolder Face on Google" (the 42 shades of blue story)](http://www.nytimes.com/2009/03/01/business/01marissa.html?_r=0)
 * [The $300 Million Button](http://www.uie.com/articles/three_hund_million_button/)
 
 
