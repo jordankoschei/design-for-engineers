@@ -3,8 +3,9 @@ Links from the "Design for Engineers" presentation.
 
 
 ## Presentation Sources
-* ["Putting a Bolder Face on Google" (the 42 shades of blue story)](http://www.nytimes.com/2009/03/01/business/01marissa.html?_r=0)
 * [The $300 Million Button](http://www.uie.com/articles/three_hund_million_button/)
+* [The Ebola Patient Was Sent Home Because of Bad Software](http://www.theatlantic.com/technology/archive/2014/10/the-ebola-patient-was-sent-home-because-of-an-electronic-health-record-problem/381087/)
+* ["Putting a Bolder Face on Google" (the 42 shades of blue story)](http://www.nytimes.com/2009/03/01/business/01marissa.html?_r=0)
 
 
 ## Other Resources
